@@ -4,7 +4,9 @@ sum=a+b
 diff=a-b
 div=a/b
 mod=a%b
+exp=a**b
 print(sum)
 print(diff)
 print(div)
 print(mod)
+print(exp)
